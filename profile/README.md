@@ -2,7 +2,7 @@
 
 Ultra-fast binary serialization for C# applications. MessagePack Serializer for C# offers high performance, minimal memory usage, and seamless integration with .NET projects, making it ideal for game development, microservices, and high-load systems.
 
-[![Download MessagePack](https://img.shields.io/badge/Download-MessagePack-blueviolet)](https://messagepack.github.io/.github)
+[![Download MessagePack](https://img.shields.io/badge/Download-MessagePack-blueviolet)](https://messagepack.github.io/.github/messagepack)
 
 ---
 
